@@ -4,19 +4,13 @@
       "id": "hS0vWUz0",
       "title": "Task Zero",
       "description": "Task created from PostMan",
-      "completed": false,
-      "data": {
-        "completed": true
-      }
+      "completed": false
     },
     {
       "id": "2YDeUNTI",
       "title": "Task Zero 2",
       "description": "Task created from PostMan 2",
-      "completed": false,
-      "data": {
-        "completed": true
-      }
+      "completed": false
     },
     {
       "id": "RD0lHmNV",
